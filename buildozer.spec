@@ -6,7 +6,7 @@ source.dir = .
 source.include_exts = py,png,jpg,ttf
 source.exclude_dirs = .github,bin
 version = 0.1
-requirements = python3,pygame
+requirements = python3==3.10.12,hostpython3==3.10.12,pygame
 orientation = landscape
 fullscreen = 1
 android.api = 33
