@@ -1,9 +1,9 @@
 [app]
-title = Prueba Pygame
-package.name = pruebapygame
+title = Prueba Assets
+package.name = pruebaassets
 package.domain = org.prueba
 source.dir = .
-source.include_exts = py,png,jpg,ttf
+source.include_exts = py,png,jpg,ttf,json
 source.exclude_dirs = .github,bin
 version = 0.1
 requirements = python3==3.10.12,hostpython3==3.10.12,pygame
